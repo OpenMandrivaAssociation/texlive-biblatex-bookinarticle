@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-bookinarticle
 Version:	40323
-Release:	1
+Release:	2
 Summary:	Manage book edited in article
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-bookinarticle
