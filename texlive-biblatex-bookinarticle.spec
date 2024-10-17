@@ -3,7 +3,7 @@ Version:	40323
 Release:	2
 Summary:	Manage book edited in article
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-bookinarticle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-bookinarticle
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-bookinarticle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-bookinarticle.doc.r%{version}.tar.xz
